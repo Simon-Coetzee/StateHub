@@ -1,0 +1,17 @@
+	Regulatory	Promoter	Heterochromatin	Active	Polycomb	Transcription	Core	CTCF
+Elon	0	0	NA	0	NA	3	NA	0
+Quies	0	0	3	0	0	0	0	0
+Repr	0	0	NA	0	3	0	0	0
+TssF	NA	3	NA	3	NA	NA	0	0
+Tss	NA	3	NA	3	NA	NA	3	0
+PromF	NA	3	NA	2	NA	NA	0	0
+PromP	NA	3	NA	2	NA	NA	3	0
+EnhF	3	0	NA	3	NA	NA	0	0
+Enh	3	0	NA	3	NA	NA	3	0
+EnhWF	3	0	NA	2	NA	NA	0	0
+EnhW	3	0	NA	2	NA	NA	3	0
+BivF	3	2	2	2	3	NA	0	0
+Biv	3	2	2	2	3	NA	1	0
+Ctcf	NA	NA	NA	NA	NA	NA	0	3
+CtcfO	NA	NA	NA	NA	NA	NA	3	3
+DnaseU	0	0	NA	0	NA	NA	3	0
