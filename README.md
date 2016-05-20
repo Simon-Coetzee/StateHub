@@ -11,5 +11,5 @@ NA - This mark is irrelevant to this state
 
 10 - This mark must be present, and must not overlap with this state
 
-11 - This mark must be present, and must not overlap with this state
+11 - This mark must be present, and must overlap with this state
 
